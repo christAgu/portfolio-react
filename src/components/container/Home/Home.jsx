@@ -2,7 +2,7 @@ import React from 'react'
 import portfolio from "../../../assets/CHRIS2 (1).jpg"
 import "./Home.scss"
 import { motion } from 'framer-motion'
-import CvChrisUpdated from "../../../pdf/CvChrisUpdated.pdf";
+import Cvchris from "../../../pdf/Cvchris.pdf";
 
 
 const Home = () => {
@@ -39,7 +39,7 @@ const Home = () => {
         <h1 className='text'>Mon plus grand atout c'est mon envie constant d'apprendre. <br />J'aime faire partir de la solution et je ne me lasse jamais d'essayer <br />
        <br /></h1>
         <motion.a
-          href = {CvChrisUpdated} target = "_blank"
+          href = {Cvchris} target = "_blank"
           whileHover={{ scale: 1.1 }}
           variants={moveVariants}
           animate="animation"

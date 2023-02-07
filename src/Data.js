@@ -130,12 +130,7 @@ export const workNavs = [
 
 
 export const contacts = [
-  {
-    id: 1,
-    icon: <FaMapMarkerAlt />,
-    infoText: "2bis Avenue Aristide Briand ",
-    
-  },
+ 
   {
     id: 2,
     icon: <SiGmail />,
