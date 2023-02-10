@@ -36,7 +36,7 @@ const Home = () => {
       <div className="profile_text">
         <h3 className='name'>AGUEH<span> Christvit</span> </h3>
         <span className='job'>Devellopeur Frontend | Angular</span>
-        <h1 className='text'>Mon plus grand atout c'est mon envie constant d'apprendre. <br />J'aime faire partir de la solution et je ne me lasse jamais d'essayer <br />
+        <h1 className='text'>Mon plus grand atout c'est mon envie constant d'apprendre. <br />J'aime faire partie de la solution et je ne me lasse jamais d'essayer <br />
        <br /></h1>
         <motion.a
           href = {Cvchris} target = "_blank"

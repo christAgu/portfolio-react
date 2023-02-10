@@ -14,7 +14,7 @@ const Skills = () => {
         className="title"
       >
        
-        <h1> Mes  Compétances</h1>
+        <h1> Mes compétences</h1>
       </motion.div>
       <motion.div
         initial={{opacity: 0}}
