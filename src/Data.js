@@ -134,7 +134,7 @@ export const contacts = [
   {
     id: 2,
     icon: <SiGmail />,
-    infoText: "othnielague@gmail.com"
+    infoText: "ague26oth@gmail.com"
   },
   {
     id: 3,
