@@ -22,7 +22,7 @@ const Contact = () => {
           transition={{duration: 1}}
           className='contact_left_container'>
           <h3></h3>
-          <p className='contact_text'>N'hesitez pas à prendre contacte dans le cadre d'une collaboration ou d'une opportunité</p>
+          <p className='contact_text'>N'hesitez pas à prendre contact dans le cadre d'une collaboration ou d'une opportunité</p>
           {contacts.map(contact => {
             return (
               <div className='contact_left' key={contact.id}>
