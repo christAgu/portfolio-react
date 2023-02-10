@@ -36,7 +36,7 @@ const Portfolio = () => {
         className="title"
       
       >
-            <h1>Mes Projects</h1>
+            <h1>Mes Projets</h1>
       </motion.div>
       <motion.div
         initial={{opacity: 0}}
